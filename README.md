@@ -9,7 +9,8 @@ ISMRS 平台旨在提供一个全面且准确的火星探测器仿真环境。�
 图像数据集：模拟探测器中传感器获得的图像，用于训练目标检测。
 ## 使用说明
 1.克隆仓库：使用以下命令克隆本仓库，以下载数据：
-‘git clone https://github.com/your-username/MarsRoverSimulationData.git’
+git clone https://github.com/your-username/MarsRoverSimulationData.git
+
 2.访问数据：在克隆的仓库中导航到相应的目录，以访问所需的数据文件。
 ## 文件结构
 MarsRoverSimulationData/
