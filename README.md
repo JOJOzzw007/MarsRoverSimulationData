@@ -19,7 +19,7 @@ MarsRoverSimulationData/
 ├── simulation/
 │   ├── sensor_data/
 │   └── environment_data/
-├── machine_learning/
+├── deep_learning/
 │   └── image_datasets/
 │
 └── README.md
